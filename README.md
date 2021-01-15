@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://www.dropbox.com/s/592pv9wcrjlf677/imggithub.gif?dl=0">
+<img align="right" width="400" height="400" src="https://i.pinimg.com/originals/50/b3/69/50b369f13df98aa9f1623fcab60968c7.png">
 
 # Bem vindo!
 
