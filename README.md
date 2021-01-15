@@ -1,11 +1,11 @@
 ## :computer: O que vamos programar hoje ?
 
 Me chamo Thiago, sou programador e instrutor de cursos focado na tecnologia .NET
-
+---
 ### :pushpin: O que você vai encontrar aqui
 
  Conteúdo sobre .NET e tecnologias web, por exemplo Angular, HTML, Javascript e outros
- 
+ ---
  ### :mortar_board: Meus cursos
  
  :scroll: [ASP NET CORE MVC 3 e 3.1 - Aprenda construindo sistemas](https://www.udemy.com/course/asp-net-core-mvc-3-e-31-aprenda-construindo-sistemas/?referralCode=2F845824E6449C6A2FFB)  
