@@ -1,16 +1,14 @@
-### Hi there 👋
+<img align="right" width="400" height="400" src="https://www.dropbox.com/s/de4sz6bwzr4bfyo/img%20github.png?dl=0">
 
-<!--
-**thiagopaivamed/thiagopaivamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Bem vindo!
 
-Here are some ideas to get you started:
+## Sou o Thiago!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Sou programador e instrutor de cursos
+
+
+## About me 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/thiagopaivamed)]
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiagopaivamed@gmail.com)]
+
+- Obrigado pela visita. 
