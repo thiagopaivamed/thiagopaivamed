@@ -30,6 +30,8 @@ Me chamo Thiago, sou programador e instrutor de cursos focado na tecnologia .NET
  :white_check_mark: [ÁLBUM DE FOTOS EM ASP.NET CORE MVC](https://www.youtube.com/playlist?list=PLTESsx8-vfPnZ526-KIlroPXb_q8ACL3E)  
  :white_check_mark: [BOT PARA TWITTER](https://www.youtube.com/playlist?list=PLTESsx8-vfPmX2-Ix1Q8XuWLoZX2TiKQr)  
  
+ ---
+ 
 ### :email: Onde me encontrar
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/thiagopaivamed)](https://github.com/thiagopaivamed)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiagopaivamed@gmail.com)](mailto:thiagopaivamed@gmail.com)
