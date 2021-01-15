@@ -2,7 +2,7 @@
 
 Me chamo Thiago, sou programador e instrutor de cursos focado na tecnologia .NET
 
----
+***
 
 ### :pushpin: O que você vai encontrar aqui
 
