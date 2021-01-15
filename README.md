@@ -1,4 +1,4 @@
-<img align="right" src="https://i.pinimg.com/originals/de/41/32/de413236fc6cf6c1365e1a99de59728b.png">
+<img align="right" src="https://i.pinimg.com/originals/9a/03/bf/9a03bf755931e7a158a61bc3c406dada.png">
 
 # Bem vindo!
 
