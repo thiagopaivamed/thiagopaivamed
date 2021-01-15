@@ -8,7 +8,7 @@ Me chamo Thiago, sou programador e instrutor de cursos focado na tecnologia .NET
  
  ### :mortar_board: Meus cursos
  
- - ABC(Google.com)
+
 
  Conteúdo sobre .NET e tecnologias web, por exemplo Angular, HTML, Javascript e outros
 
