@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://www.dropbox.com/s/de4sz6bwzr4bfyo/img%20github.png">
+<img align="right" width="400" height="400" src="https://www.dropbox.com/s/592pv9wcrjlf677/imggithub.gif?dl=0">
 
 # Bem vindo!
 
