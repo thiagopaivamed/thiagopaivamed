@@ -14,8 +14,6 @@ Me chamo Thiago, sou programador e instrutor de cursos focado na tecnologia .NET
  
  :scroll: [Angular, .NET Core Web API e Angular Material](https://bit.ly/angwebapi2021)   
  :scroll: [ASP NET CORE MVC 3 e 3.1 - Aprenda construindo sistemas](https://bit.ly/netcoremvc3)  
- :scroll: [ASP NET CORE MVC 2 : Do Básico ao Avançado](https://bit.ly/netcoremvc2)  
- :scroll: [Curso básico de C#](https://www.udemy.com/course/curso-basico-de-csharp/?referralCode=C4D4E0B6A04669D2550B)  
  
  ---
  
