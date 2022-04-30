@@ -33,6 +33,8 @@
 
 ### :man_technologist: About Me :
 
+I am a Full Stack Developer
+
 - 🔭: I’m working as a Backend Developer using C#, .Net Framework, PL / SQL and Oracle for building web applications.
 
 - 💻: I'm actually learning blockchain, DeFi and how to build mobile applications.
