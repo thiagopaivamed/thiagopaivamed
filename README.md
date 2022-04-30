@@ -1,8 +1,10 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
-<div id="badges">
+  
+  <br/>
+  <br/>
+  
+  <div id="badges">
   <a href="https://www.linkedin.com/in/thiago-paiva-medeiros-26248b98/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -13,11 +15,14 @@
     <img src="https://img.shields.io/badge/Instagram-blueviolet?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
-
-<div>
+  
+  <br/>
+  
+  <div>
  <img src="https://komarev.com/ghpvc/?username=thiagopaivamed&style=flat-square&color=blue" alt=""/>
  </div>
-
+  
+</div>
 
 <h1>
   Hi there !
@@ -34,7 +39,7 @@
 
 - 💡: I have interest in blockchain and DeFi projects.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-paiva-medeiros-26248b98/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-paiva-medeiros-26248b98/)
 
 ---
 
