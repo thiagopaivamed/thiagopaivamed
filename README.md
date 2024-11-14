@@ -32,10 +32,6 @@ I am a Full Stack Developer
 
 - 🔭: I’m working as a Backend Developer using C#, .Net Framework, PL / SQL and Oracle for building web applications.
 
-- 💻: I'm actually learning blockchain, DeFi and how to build mobile applications.
-
-- 💡: I have interest in blockchain and DeFi projects.
-
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-paiva-medeiros-26248b98/)
 
 ---
